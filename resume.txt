@@ -1,0 +1,64 @@
+HARSHIT SINGH
+SOFTWARE ENGINEER
+
+Graduating: B. Tech (CSE) from REVA University, BLR  I   B.Sc (Data Science & Programming) from IIT Madras
+
+ABOUT ME
+Versatile problem-solver with a robust grasp of multiple programming languages. Thrives in high-pressure team settings, with a keen appetite for learning and collaboration. Seeks to join your team, valuing growth through challenges, a strong work ethic, and a positive mindset.
+
+EDUCATION
+ Pursuing an online Bachelor of Science from IIT Madras in Data Science & Programming, with a strong foundation in core Data Science principles.
+ Bachelor of Technology in Computer Science Engineering (3rd year). Active engagement in learning and Passionate explorer.
+ Achieved top 8% rank nationwide in the GATE exam, demonstrating exceptional proficiency.
+
+TECHNICAL SKILLS
+ Programming: Python, PySpark, Solidity, GeoPy, Django, Numpy, Pandas, Matplotlib, C/C++, Java
+ Web Technologies:- HTML, CSS, JavaScript, ReactJS, NodeJS
+ Cloud Providers:- AWS, Azure
+ Blockchain Technologies:- MOVE, Web3 dev
+ Database:- SQL Server, Hadoop, MySQL, SQLite
+ Operating System:- Windows, DOS, Android, Windows Subsystem for Linux (WSL)
+ Development Environment:- Visual Studio Code, Git, Jupyter Notebook
+
+WORK EXPERIENCE
+Project  : Trackyoo  (ArkVerse Private Limited, Bengaluru) – from May 2023 to Nov 2023
+Roles : Back-end Developer [intern]
+ Social media application and Bus tracking applications for university students.
+ Engineered robust API solutions, ensuring seamless data integration and backend system functionality within a collaborative development team.
+ Spearheaded the analysis and visualization of university bus movement data, identifying critical trends to optimize transportation services.
+ Expertly managed data collection and cleansing processes, presenting actionable insights through data visualization techniques.
+
+Project : Teaching Assistant ( REVA University, Bengaluru) – From Jan 2022 to Aug 2022
+Roles : Class Coordinator
+ Assisted Prof. Dr. Srinivasan Lakshminarayan's classroom management and document coordination on topics like C_programming, Python, and Java to maintain a positive learning environment.
+ Partnered with the faculty to plan and implement lessons following the school's curriculum, goals, and objectives.
+ Tutored struggling students individually and in small groups to reinforce learning concepts. Supported classroom activities, tutoring, and reviewing work.
+
+CERTIFICATION & LINKS
+Microsoft Azure AI Fundamentals: https://tinyurl.com/AI-900-AIfundamentalsMicrosoft
+NPTEL Ethical Hacking Certificate: https://tinyurl.com/EthicalHackingHarshitSingh
+IIT Madras online Degree: https://tinyurl.com/FoundationsCertificate
+Google IT Support Certificate: https://tinyurl.com/IT-supportCertificateGoogle
+Google Project Management Certificate: https://tinyurl.com/ProjectManageCertificateGoogle
+Google Data Analyst Certificate: https://tinyurl.com/DataAnalystCertificateGoogle
+
+EXTRA CURRICULAR ACTIVITY
+Vice President, FACE Forum (from Sep 2023 to May 2024)
+Forum of Aspiring Computer Engineers, Bengaluru
+ Committee Vice President: Responsible for Social charity, Animal welfare, Sponsorship and Environment & Awareness events.
+
+Github: https://github.com/harshitsingh09
+LinkedIn: https://www.linkedin.com/in/harshitsingh1/
+
+PROJECTS & HACKATHONS
+OOFY-HACK 2024:
+ Topic: Poverty mapping using GeoSpatial data
+ Accomplishment: Shortlisted in the top 10 at the national level
+
+Smart India Hackathon 2023:
+ Topic: Sentiment analysis on social media sites
+ Accomplishment: Qualified university level
+
+KAVACH hackathon 2022:
+ Topic: Automatic Number Plate Recognition & Face Recognition System
+ Accomplishment: Participation recognition
